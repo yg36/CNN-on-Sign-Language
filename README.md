@@ -91,3 +91,5 @@ jupyter notebook CNN_on_Sign_Language_MNIST.ipynb
 ## Recruiter-Relevant Signal
 
 This repo shows practical computer-vision implementation in PyTorch: image preprocessing, custom datasets, dataloaders, CNN design, validation logic, and classification evaluation. It is a stronger AI/ML portfolio signal than a basic notebook because it covers the actual training pipeline.
+
+<!-- repository-refresh: 2026-06-29 | preserved-order-rank: 002/71 -->
